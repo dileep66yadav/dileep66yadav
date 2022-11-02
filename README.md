@@ -18,8 +18,8 @@ Welcome to Dileep's Github Profile.
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=dileep66yadav&show_icons=true" />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dileep66yadav&layout=compact)](https://github.com/dileep66yadav/github-readme-stats)
+
 </picture>
 </p>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 

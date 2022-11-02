@@ -21,5 +21,5 @@ Welcome to Dileep's Github Profile.
 
 </picture>
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dileep66yadav&langs_count=8)](https://github.com/dileep66yadav/dileep66yadav)
 

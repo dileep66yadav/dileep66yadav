@@ -8,7 +8,6 @@ Welcome to Dileep's Github Profile.
 </h3
 
 <p align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dileep66yadav&show_icons=true&theme=transparent)
-  </a>
+![Dileep's GitHub stats](https://github-readme-stats.vercel.app/api?username=dileep66yadav&show_icons=true&theme=transparent)
 </p>
 

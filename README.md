@@ -24,3 +24,4 @@ Welcome to Dileep's Github Profile.
 <img src="[https://github-readme-stats.vercel.app/api?username=dileep66yadav&show_icons=true](https://github-readme-stats.vercel.app/api/top-langs/?username=dileep66yadav&hide=javascript,css,scss,html&theme=tokyonight)" />
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dileep66yadav&langs_count=8)](https://github.com/dileep66yadav/github-readme-stats)

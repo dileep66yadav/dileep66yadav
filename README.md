@@ -20,4 +20,5 @@ Welcome to Dileep's Github Profile.
 <img src="https://github-readme-stats.vercel.app/api?username=dileep66yadav&show_icons=true" />
 </picture>
 </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dileep66yadav&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 

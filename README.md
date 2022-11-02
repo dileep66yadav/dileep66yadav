@@ -21,5 +21,5 @@ Welcome to Dileep's Github Profile.
 
 </picture>
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dileep66yadav&langs_count=8)](https://github.com/dileep66yadav/dileep66yadav)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dileep66yadav&hide=javascript,css,scss,html&theme=tokyonight)
 

@@ -32,11 +32,9 @@ Java and ML and AI Fullstack Software Developer
   </a>
 </p>
 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dileep66yadav&repo=github-readme-stats)](https://github.com/dileep66yadav/github-readme-stats)
 <p align="center">
 
-  <a href="[https://github.com/dileep66yadav](https://github.com/dileep66yadav)">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DILEEP66YADAV&langs_count=8 &layout=compact&hide_border=true&show_icons=true&count_private=true" alt="habibalmawali's github stats">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
   </a>
 </p>
 

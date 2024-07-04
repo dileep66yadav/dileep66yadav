@@ -1,5 +1,7 @@
 <h1 align="center">
-INDIA  ![image](https://github.com/dileep66yadav/dileep66yadav/assets/117248593/2d2bf3f0-759c-4d62-b15d-5571802c5f5f)
+INDIA  
+
+ [![Website Badge]([https://img.shields.io/badge/Mayank_Mishra-47CCCC](https://icons8.com/icon/32584/india)?style=flat&logo=Google-Chrome&logoColor=white&link=https://github.com/dileep66yadav/)](https://github.com/dileep66yadav)
  <br> 
 
 </h1>

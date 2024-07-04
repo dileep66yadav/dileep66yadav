@@ -1,7 +1,5 @@
 <h1 align="center">
-INDIA  
-
-([[https://img.shields.io/badge/Mayank_Mishra-47CCCC](https://icons8.com/icon/32584/india)](https://icons8.com/icon/32584/india)?style=flat&logo=Google-Chrome&logoColor=white&link=https://github.com/dileep66yadav/)]
+INDIA  ![alt text]([http://url/to/img.png](https://icons8.com/icon/32584/india))
  <br> 
 
 </h1>

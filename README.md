@@ -1,39 +1,13 @@
 <h1 align="center">
-Hi There 👋 <br> 
+INDIA  ![image](https://github.com/dileep66yadav/dileep66yadav/assets/117248593/2d2bf3f0-759c-4d62-b15d-5571802c5f5f)
+ <br> 
 
 </h1>
 
 <h3 align="center">
-Welcome to Dileep's Github Profile.
+ ### Hi, I'm Dileep Yadav 👋
  
 </h3
-
-<p align="center">
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=dileep66yadav&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
- | 
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=dileep66yadav&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=dileep66yadav&show_icons=true" />
-
-</picture>
- 
-</p>
-<img src="[https://github-readme-stats.vercel.app/api?username=dileep66yadav&show_icons=true](https://github-readme-stats.vercel.app/api/top-langs/?username=dileep66yadav&hide=javascript,css,scss,html&theme=tokyonight)" />
-
-
-
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dileep66yadav&langs_count=8)](https://github.com/dileep66yadav/github-readme-stats)
-
-
- ### Hi, I'm Dileep Yadav 👋
 
 Hi I'm Dileep Yadav.
 

@@ -14,10 +14,12 @@ Welcome to Dileep's Github Profile.
   srcset="https://github-readme-stats.vercel.app/api?username=dileep66yadav&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
+ | 
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=dileep66yadav&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
+ | 
 <img src="https://github-readme-stats.vercel.app/api?username=dileep66yadav&show_icons=true" />
 
 </picture>
@@ -25,9 +27,12 @@ Welcome to Dileep's Github Profile.
 </p>
 <img src="[https://github-readme-stats.vercel.app/api?username=dileep66yadav&show_icons=true](https://github-readme-stats.vercel.app/api/top-langs/?username=dileep66yadav&hide=javascript,css,scss,html&theme=tokyonight)" />
 
+| 
+
+
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dileep66yadav&langs_count=8)](https://github.com/dileep66yadav/github-readme-stats)
 
-
+| ------------- | ------------- |
  ### Hi, I'm Dileep Yadav 👋
 
 Hi I'm Dileep Yadav.

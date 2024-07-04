@@ -16,6 +16,9 @@ R & D ML with Deep Learning, Reinforcement Learning, Natural Language Processing
 | ------------- | ------------- |
 
 [![Website Badge](https://badgen.net/static/|/Dileep%20Yadav/green?icon=java)](https://github.com/dileep66yadav)
+[![Website Badge](https://badgen.net/static/|/Dileep%20Yadav/green?icon=twitter)](https://github.com/dileep66yadav)
+[![Website Badge](https://badgen.net/static/|/Dileep%20Yadav/green?icon=java)](https://github.com/dileep66yadav)
+
 [![Linkedin Badge](https://img.shields.io/badge/Mayank_Mishra-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/in-dileep/)](https://www.linkedin.com/in/in-dileep/)
 [![Google Scholar Badge](https://img.shields.io/badge/Mayank_Mishra-4285f4?style=flat&logo=Google-Scholar&logoColor=white&link=https://scholar.google.com/citations?user=YsbtW6cAAAAJ&hl=en)](https://scholar.google.com/citations?user=YsbtW6cAAAAJ&hl=en)
 [![Instagram Badge](https://img.shields.io/badge/@asuna_fps.mayank-purple?style=flat&logo=instagram&logoColor=white&link=https://www.linkedin.com/in/in-dileep/)](https://www.linkedin.com/in/in-dileep/)

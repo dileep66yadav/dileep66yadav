@@ -1,18 +1,13 @@
 <h1 align="center">
 👋INDIA👋
-
- 
  <br> 
 
 </h1>
 
 <h3 align="center">
- Hi, I'm Dileep Yadav!
- 
+ Hi, I'm Dileep Yadav
 </h3
-
-Hi I'm Dileep Yadav.
-
+  <br> 
 I am currently working as a AI enabled Application Developer at IBM India. Master's  MS in ML and AI from Liverpool John Moores University.
 R & D ML with Deep Learning, Reinforcement Learning, Natural Language Processing. FM and LLM , Gen AI Engineering. 
 

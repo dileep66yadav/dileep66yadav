@@ -1,5 +1,5 @@
 <h1 align="center">
-INDIA  ![alt text]([http://url/to/img.png](https://icons8.com/icon/32584/india))
+INDIA   ![alt text](https://icons8.com/icon/32584/india)
  <br> 
 
 </h1>

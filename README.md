@@ -1,5 +1,5 @@
 <h1 align="center">
-INDIA ![image](https://github-production-user-asset-6210df.s3.amazonaws.com/117248593/345941357-9442e10c-87fe-4f0f-a633-825f3f9d2c52.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240704%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240704T194940Z&X-Amz-Expires=300&X-Amz-Signature=bc1e59bb9426d2e4fa92fa1b0448eb46862cd8083fe7c92032793fe014797448&X-Amz-SignedHeaders=host&actor_id=117248593&key_id=0&repo_id=560709192)
+👋INDIA👋
 
  
  <br> 
@@ -7,7 +7,7 @@ INDIA ![image](https://github-production-user-asset-6210df.s3.amazonaws.com/1172
 </h1>
 
 <h3 align="center">
- Hi, I'm Dileep Yadav 👋
+ Hi, I'm Dileep Yadav!
  
 </h3
 

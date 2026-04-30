@@ -1,7 +1,7 @@
 <h1 align="center">
 👋 Hello Dev Community 👋
 <br>
-🚀 Welcome to GenAI Backend Engineering (AI Systems Focus) Space!
+🚀 Welcome to GenAI Backend Engineering Space!
 </h1>
 
 <h3 align="center">
